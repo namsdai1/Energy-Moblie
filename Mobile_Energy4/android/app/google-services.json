@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364727074372",
+    "project_id": "enegrymoblie",
+    "storage_bucket": "enegrymoblie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364727074372:android:d8a75f6e211069dffe0611",
+        "android_client_info": {
+          "package_name": "com.energy_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364727074372-s4ucqlblct60n3gg7m3n8rer5e0ad23d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZOBWMkm1R8CWgpLQIXAEtmZzPb3IBcPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364727074372-s4ucqlblct60n3gg7m3n8rer5e0ad23d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

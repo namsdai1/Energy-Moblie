@@ -1,0 +1,58 @@
+.itemPrd {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.viewMoreText {
+  font-size: 15px;
+  color: steelblue;
+  font-weight: 600;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.tblOrder {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+table {
+  border-spacing: 0.4em 0.2em;
+  padding: 0 0.2em 0.2em 0;
+  /* border-collapse: collapse; */
+  margin-left: 30px;
+  margin-top: 20px;
+}
+tr {
+  /* width: 1.5em;
+  height: 1.5em; */
+  border: 1px solid gray;
+  text-align: center;
+  vertical-align: middle;
+  border-collapse: collapse;
+}
+th {
+  /* width: 1.5em;
+    height: 1.5em; */
+  text-align: center;
+  vertical-align: middle;
+  background-color: rgb(250, 250, 250);
+  padding: 8px 12px;
+  font-size: 16px;
+}
+td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 8px 12px;
+  background-color: rgb(250, 250, 250);
+  font-size: 16px;
+}
+
+.statusText1 {
+  color: orangered;
+}
+
+.statusText2 {
+  color: darkcyan;
+}

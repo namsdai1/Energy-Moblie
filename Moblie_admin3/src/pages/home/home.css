@@ -1,0 +1,21 @@
+.home {
+  flex: 4;
+}
+
+.homeWidgets {
+  display: flex;
+  margin: 20px;
+}
+
+.txtTitle {
+  width: "100%";
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.txtTitle > h2 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.7em;
+}
